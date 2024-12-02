@@ -1,0 +1,30 @@
+body {
+	background-color: #7e84a3;
+	font-family: Papyrus, fantasy;
+}
+
+h1 {
+	text-align: center;
+	animation: fadeInUpBig;
+	animation-duration: 3s;
+}
+
+p {
+	font-size: 18px;
+	text-align: center;
+	animation: fadeIn;
+	animation-duration: 9s;
+}
+
+span {
+	font-size: 9px;
+}
+
+a {
+	color: #0091ff;
+}
+
+img {
+	width: 300px;
+	height: 300px;
+}
